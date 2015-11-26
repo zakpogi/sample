@@ -3,3 +3,5 @@ gwapo si zak
 gwapo tlga si zak
 
 pogi zak
+
+http://stackoverflow.com/questions/978052/how-can-i-make-my-local-repository-available-for-git-pull
