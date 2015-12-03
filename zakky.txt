@@ -7,3 +7,44 @@ pogi zak
 http://stackoverflow.com/questions/978052/how-can-i-make-my-local-repository-available-for-git-pull
 
 added
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vim potato.txt
+git commit -a -m "asdasdsadad"
+git push origin branch 
